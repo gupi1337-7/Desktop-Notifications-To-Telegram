@@ -1,2 +1,5 @@
 pywinauto
 python-telegram-bot
+requests
+mss
+Pillow
