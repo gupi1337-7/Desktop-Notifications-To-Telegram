@@ -48,7 +48,7 @@ This Python script monitors Windows notifications and sends messages about them 
 1. Run the script:
 
    ```
-   python notification_monitor.py
+   python NotWin.py
    ```
 
 2. When prompted, enter your Telegram Bot Token and Chat ID.
